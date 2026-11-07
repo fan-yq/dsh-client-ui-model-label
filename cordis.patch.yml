@@ -1,0 +1,6 @@
+# Bundle layer: mount the provider/model label plugin into every profile that
+# selects this bundle. The row names this same package: its host half is a
+# no-op, and its browser half fills the composer's model-label slot.
+- insert:
+    - id: client-ui-model-label
+      name: dsh-client-ui-model-label

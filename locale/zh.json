@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "模型标签显示 provider/model",
+    "description": "把 DSH 输入框的模型标签显示为 provider/model。"
+  }
+}
